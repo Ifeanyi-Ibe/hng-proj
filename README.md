@@ -1,2 +1,2 @@
 # hng-proj
-My HNJi7 Repo
+My HNGi7 Repo
